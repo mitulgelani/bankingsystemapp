@@ -60,7 +60,7 @@ class _HomepageState extends State<Homepage> {
       appBar: AppBar(
         backgroundColor: Colors.purple[700],
         title: Text(
-          "BankingApp",
+          "Banking System",
           style: TextStyle(color: Colors.white),
         ),
         centerTitle: true,
